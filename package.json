@@ -2,6 +2,7 @@
   "name": "testcafe-vue-selectors",
   "version": "2.1.0",
   "description": "VueJS selectors for TestCafe",
+  "language":"English",
   "author": "Raad Altaie",
   "main": "lib/index",
   "files": [

@@ -17,3 +17,5 @@ build: off
 test_script:
 - cmd: >-
     npm test
+    
+    

@@ -57,4 +57,4 @@ test('supported version', async t => {
         await t.expect(e.errMsg).contains('testcafe-vue-selectors supports Vue version 2.x and newer');
     }
 });
-
+//end
